@@ -1,2 +1,1 @@
-def int (18)
-    return 18
+print("Hello World")
